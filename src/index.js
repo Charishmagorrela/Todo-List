@@ -12,4 +12,5 @@ render(
     <App />
   </Provider>,
   document.getElementById('root')
+  // Test
 )
